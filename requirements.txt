@@ -4,7 +4,7 @@ colorama==0.2.5
 coverage==4.5.2
 dj-database-url==0.5.0
 gunicorn==19.9.0
-html5lib==0.999
+html5lib==0.999999999
 psycopg2==2.7.6.1
 pycurl==7.19.3
 pygobject==3.12.0
